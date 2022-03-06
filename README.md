@@ -1,6 +1,6 @@
 <h1 align="center">⚡ 🄰🄽🄸🄴-🅄🅂🄴🅁🄱🄾🅃 ⚡</h1>
 
-[![Aniebots logo](https://telegra.ph/file/28c979a7a36c344da3e07.jpg)](https://t.me/Aniebotsupports)
+[![Aniebots logo](https://telegra.ph/file/ec537aab8b7e81c49c6f1.jpg)](https://t.me/Aniebotsupports)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 <h2 align ="center">Don't forget to star this repo if you liked it.!!💝</h2>
